@@ -12,7 +12,7 @@ This is a simple currency converter web application built using HTML, CSS, and J
 
 ## Demo
 
-You can try out the app live [here](#).
+You can try out the app live [here](https://ramankumar124.github.io/Currency-Converter/).
 ## Usage
 
 1. Select the currency you want to convert from in the "From" dropdown menu.
